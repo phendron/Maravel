@@ -1,0 +1,7 @@
+/* CSS Document */
+
+a.disabled {background-color:#939393l; color:#292929; pointer-events: none; cursor: default;}
+a.disabled > button {background-color:#939393 !important; color:#292929; border:1px solid #292929; pointer-events: none; cursor: default;}
+section.app-info {padding:1em;}
+
+section.card-panel {padding:1em;}

@@ -1,0 +1,12 @@
+/* CSS Document */
+header {padding:1em; text-align:center;}
+
+notification {padding:1em; display:block; width:100%;}
+notification msg {display:block; width:100%; padding:1em; text-align:center; border-radius:10px;}
+msg.success {display:none; background-color:#40E746; color:#fff;}
+msg.error {display:none; background-color:#D12023; color:#fff;}
+
+form {padding:0.5em; width:100%;}
+form input {display:block; margin:0 auto; width:100%; margin-top:0.5em;}
+form section {display:none; padding:1em;}
+form section.application {display:block;}

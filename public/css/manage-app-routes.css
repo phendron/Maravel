@@ -1,0 +1,6 @@
+/* CSS Document */
+
+
+table {}
+table tbody tr:hover {background-color:#EEE;}
+table tbody tr td:hover {background-color:#DDD;}

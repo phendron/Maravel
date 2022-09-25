@@ -1,0 +1,10 @@
+/* CSS Document */
+
+.row-debug > td {background-color:#C2C2C2; --bs-table-accent-bg:#C2C2C2 !important;}
+.row-info > td {background-color:#FFFFFF; --bs-table-accent-bg:#C2C2C2 !important;}
+.row-error > td {background-color:#DCDCDC; --bs-table-accent-bg:#DCDCDC !important;}
+.row-alert > td {background-color:#C2C2C2; --bs-table-accent-bg:#C2C2C2 !important;}
+.row-warning > td {background-color:#ED9007; --bs-table-accent-bg:#ED9007 !important;}
+.row-notice > td {background-color:#0F8DDB; --bs-table-accent-bg:#0F8DDB !important;}
+.row-critical > td {background-color:#C2C2C2; --bs-table-accent-bg:#C2C2C2 !important;}
+.row-emergency > td {background-color:#EA171B; --bs-table-accent-bg:#EA171B2 !important;}

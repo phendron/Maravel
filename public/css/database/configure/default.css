@@ -1,0 +1,44 @@
+section.info {display:none;}
+section.configure {}
+div.configure-database form {width:100%;}
+div.configure-database form select {width:100%;}
+div.configure-database form input {width:100%;}
+div.configure-database {display:none;}
+
+i.suse-ico {background-image: url('../../../images/SUSE_Logo-hor_L_Green-pos_sRGB.png');     width: 50px;
+    height: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+i.ubuntu-ico {background-image: url('../../../images/ubuntu-CoF.png');     width: 50px;
+    height: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+i.redhat-ico {background-image: url('../../../images/Red_Hat_logo_PNG2.png');     width: 50px;
+    height: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+
+i.debian-ico {background-image: url('../../../images/debian-button.png.png');     width: 50px;
+    height: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+i.alpine-ico {background-image: url('../../../images/alpinelinux-logo.svg');     width: 50px;
+    height: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+
