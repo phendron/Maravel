@@ -1,7 +1,7 @@
 # Maravel
 ## A Laravel Application Management Application
 
-Create, Maintain & Develope Laravel Applications Easier through Maravel's GUI.
+Create, Maintain & Develop Laravel Applications Easier through Maravel's GUI.
 
 - Create & Manage Laravel Applications
 - Manage Routes
