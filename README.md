@@ -3,7 +3,7 @@
 
 Create, Maintain & Develope Laravel Applications Easier through Maravel's GUI.
 
-- Create & Manage Larvel Applications
+- Create & Manage Laravel Applications
 - Manage Routes
 - Manage Environment Configuration
 - Configure, Create & Manage Databases
